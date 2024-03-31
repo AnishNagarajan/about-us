@@ -7,7 +7,6 @@
     display: grid;
     grid-template-columns: 30px 1fr;
     align-items: center;
-    color:var(--primary-color);
     
 }
 .h2tag{
@@ -37,3 +36,12 @@
 .imgaboutus:hover{
     will-change: transform; transform: perspective(1000px) rotateX(-0.99deg) rotateY(0.5deg) scale3d(1,1,1);
 } */
+.feature{
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: black;
+}
+.secimg p {
+    color:var(--primary-color);
+    font-weight: 600;
+}
