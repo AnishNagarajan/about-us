@@ -3,6 +3,10 @@
     grid-template-columns: repeat(auto-fill, minmax(600px,1fr));
 
 }
+.aboutus{
+    padding: 10vh 3vw;
+    }
+    
 .secimg{
     display: grid;
     grid-template-columns: 30px 1fr;
